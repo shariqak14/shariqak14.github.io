@@ -1,0 +1,19 @@
+.nav-pills .nav-item .nav-link.active {
+  color: #ffffff;
+  background-color: #000000 !important;
+  box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(0, 0, 0, 0.6) !important;
+}
+
+.profile-page .profile-tabs {
+  margin-top: 1.25rem !important;
+}
+
+.form-control, .is-focused .form-control {
+    background-image: linear-gradient(to top, #000000 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px) !important;
+}
+
+.btn-primary {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12) !important;
+}
