@@ -1,9 +1,6 @@
 # Personal Website
 
-
- ![version](https://img.shields.io/badge/version-2.0.7-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-This website was made using **Material Kit** which is based on the Github Repo from Fezvrasta who did an amazing job creating the backbone for the material effects, animations, and transitions. Big thanks to his team for their forward-thinking efforts. I have simply modified pages that I deemed were appropriate for my use case.
+This is the code for my personal website which was made using Material Kit. Material Kit is based on the Github Repo from Fezvrasta who did an amazing job creating the backbone for the material effects, animations, and transitions. Big thanks to his team for their forward-thinking efforts. I have simply modified pages that I deemed were appropriate for my use case. The website is hosted using GitHub pages and can be accessed [here](http://shariq.live/).
 
 ## Documentation
 The documentation for the Material Kit is hosted at their [website](https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html).
