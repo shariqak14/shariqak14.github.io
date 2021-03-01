@@ -6,7 +6,7 @@
 This website was made using **Material Kit** which is based on the Github Repo from Fezvrasta who did an amazing job creating the backbone for the material effects, animations, and transitions. Big thanks to his team for their forward-thinking efforts. I have simply modified pages that I deemed were appropriate for my use case.
 
 ## Documentation
-The documentation for the Material Kit is hosted at our [website](https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html).
+The documentation for the Material Kit is hosted at their [website](https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html).
 
 
 ## File Structure
